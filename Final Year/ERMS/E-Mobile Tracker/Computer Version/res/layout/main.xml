@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    style="@style/myTheme" android:background="@drawable/pic13">
+    <TextView android:id="@+id/UserNameTV" android:layout_height="wrap_content" android:layout_width="match_parent" android:text="UserName :" android:layout_marginTop="20dp" android:textSize="20sp"></TextView>
+    <EditText android:layout_height="wrap_content" android:layout_width="match_parent" android:id="@+id/UserNameET" android:inputType="text">
+        <requestFocus></requestFocus>
+    </EditText>
+    <TextView android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/PasswordTV" android:layout_marginTop="20dp" android:text="Password :" android:textSize="20sp"></TextView>
+    <EditText android:layout_height="wrap_content" android:layout_width="match_parent" android:id="@+id/PasswordET" android:inputType="textPassword">
+    </EditText>
+    <Button android:layout_height="wrap_content" android:id="@+id/SignIN" android:layout_gravity="center" android:layout_width="168dp" android:layout_marginTop="20dp" android:text="Sign in" android:textSize="20sp"></Button>
+</LinearLayout>

@@ -1,0 +1,188 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="ESAMaster.master.cs" Inherits="ESAMaster" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link rel="shortcut icon" href="css/images/favicon.ico" type="image/x-icon" />
+    <title>Latlong | Trafic Control System</title>
+    <link href="css/style.css" rel="stylesheet" type="text/css" media="screen" />
+    <script src="Scripts/swfobject_modified.js" type="text/javascript"></script>
+
+    <!-- Fusion Charts -->
+        <script language="javascript" src="FusionCharts/FusionCharts.js"></script>
+
+        <script type="text/javascript" src="FusionCharts/FusionCharts.js"></script>
+    <!------------------->
+
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+
+    <style type="text/css">
+        .style1
+        {
+            width: 100%;
+        }
+        .style2
+        {
+            width: 1016px;
+        }
+    </style>
+
+</head>
+<body>
+    <form id="form1" runat="server">
+    <asp:ScriptManager ID="ScriptManager1" runat="server"/>        
+    <div id="wrapper">
+        <!-- Header -->
+		<div id="topheader">
+        	<div class="title"><img src="css/images/logo.png" /></div>
+            <div class="topnavigation">
+                <ul>
+                    <li><a href="EPISendAlerts.aspx">Path Finder</a></li>
+                    <li><a href="#">Destination Services</a></li>
+                    <li><a href="#">Statical Analyzer</a></li>
+                    <li class="last"><a href="#">Mobile Helper</a></li>
+                </ul>
+            </div>
+            <div class="clear"></div>
+        </div>
+        
+        <div id="navigation">
+        	<div class="menu-start"></div>
+            <div class="menu">
+                <ul>
+                    <li><a href="./Home.aspx">Home</a></li>
+                    <li><a href="#">Plan</a></li>
+                    <li><a href="#">Service</a></li>
+                    <li><a href="#">About Us</a></li>
+                    <li><a href="#">Contact Us</a></li>
+                    <li class="last"><a href="#">Get Registered</a></li>
+                    <li class="account"><a href="#">My Account</a></li>
+                </ul>
+            </div>
+            <div class="menu-end"></div>
+            <div style="clear:both"></div>
+        </div>
+        <div id="slider">
+        	<div class="flash">
+        	  <object id="FlashID" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="946" height="243">
+        	    <param name="movie" value="banner.swf" />
+        	    <param name="quality" value="high" />
+        	    <param name="wmode" value="opaque" />
+        	    <param name="swfversion" value="6.0.65.0" />
+        	    <!-- This param tag prompts users with Flash Player 6.0 r65 and higher to download the latest version of Flash Player. Delete it if you don’t want users to see the prompt. -->
+        	    <param name="expressinstall" value="Scripts/expressInstall.swf" />
+        	    <!-- Next object tag is for non-IE browsers. So hide it from IE using IECC. -->
+        	    <!--[if !IE]>-->
+        	    <object type="application/x-shockwave-flash" data="banner.swf" width="946" height="243">
+        	      <!--<![endif]-->
+        	      <param name="quality" value="high" />
+        	      <param name="wmode" value="opaque" />
+        	      <param name="swfversion" value="6.0.65.0" />
+        	      <param name="expressinstall" value="Scripts/expressInstall.swf" />
+        	      <!-- The browser displays the following alternative content for users with Flash Player 6.0 and older. -->
+        	      <div>
+        	        <h4>Content on this page requires a newer version of Adobe Flash Player.</h4>
+        	        <p><a href="http://www.adobe.com/go/getflashplayer"><img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player" width="112" height="33" /></a></p>
+      	        </div>
+        	      <!--[if !IE]>-->
+      	      </object>
+        	    <!--<![endif]-->
+      	    </object>
+        	</div>
+        </div>
+        <!-- End of Header -->        
+        
+        <!-- Inner Container -->   
+        <div id="container">
+        	<div class="leftside">
+            	<!-- write your lefside html here... -->
+                <table align="left" class="style1" 
+                    style="border-right-color: #000000; border-right-width: 1px; border-right-style: groove;">
+                    <tr>
+                        <td class="style2">
+                            <asp:ImageButton ID="btn1" runat="server" 
+                                ImageUrl="~/ERMSimages/ESAimages/ESA_Wall/DashBoard.png" 
+                                onclick="btn1_Click" />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="style2">
+                            <asp:ImageButton ID="btn2" runat="server" 
+                                ImageUrl="~/ERMSimages/ESAimages/ESA_Wall/PastAnalysis.png" 
+                                onclick="btn2_Click" />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="style2">
+                            <asp:ImageButton ID="btn3" runat="server" 
+                                ImageUrl="~/ERMSimages/ESAimages/ESA_Wall/Report.png" 
+                                onclick="btn3_Click" />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="style2">
+                            <asp:ImageButton ID="btn4" runat="server" 
+                                ImageUrl="~/ERMSimages/ESAimages/ESA_Wall/Simulator.png" 
+                                onclick="btn4_Click" />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="style2">
+                            <asp:ImageButton ID="btn5" runat="server" 
+                                ImageUrl="~/ERMSimages/ESAimages/ESA_Wall/Feedback.png" 
+                                onclick="btn5_Click" />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="style2">
+                            <asp:ImageButton ID="btn6" runat="server" 
+                                ImageUrl="~/ERMSimages/ESAimages/ESA_Wall/Help.png" onclick="btn6_Click" />
+                        </td>
+                    </tr>
+                </table>
+            </div>
+           <%-- <asp:UpdatePanel ID="UpdatePanel1" runat="server">
+                <ContentTemplate>--%>
+                    <div class="rightside">
+            	         <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+                
+                         </asp:ContentPlaceHolder>
+                    </div>
+                <%--</ContentTemplate>
+            </asp:UpdatePanel>--%>            
+            <!-- THIS IS IMPORTANT, WHICH CLEARS THE FLOAT FROM THE FOLLOWING HTML TAGS -->
+            <div class="clear"></div>
+        </div>   
+        <!-- End of Inner Container -->                            
+        
+        <!-- Footer -->
+		<div id="footer">
+            <div class="footer-start"></div>
+            <div class="footernav">
+                <ul>
+                    <li><a href="#">Plan</a></li>
+                    <li><a href="#">Service</a></li>
+                    <li><a href="#">About Us</a></li>
+                    <li><a href="#">Contact Us</a></li>
+                    <li class="last"><a href="#">Get Registered</a></li>
+                </ul>
+            </div>
+            <div class="footer-end"></div>
+            <div class="copyrights">
+            	<p>Copyright &copy; <a href="#">Latlong</a> All Rights Reserved. | Terms and Conditions | Site Map</p>
+            </div>
+    	</div>
+        <!-- End of Footer -->
+        
+    </div>
+    <script type="text/javascript">
+    <!--
+        swfobject.registerObject("FlashID");
+    //-->
+    </script>    
+    </form>
+</body>
+</html>

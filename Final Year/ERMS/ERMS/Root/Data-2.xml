@@ -1,0 +1,7 @@
+<chart caption='Region-Traffic Summary Per Month' xAxisName='Region' yAxisName='Traffic' numberPrefix='Thousand'> 
+    <set Region='Kent' value='85112' /> 
+    <set Region='Norfolk' value='92920' /> 
+    <set Region='Hampshire' value='91268' /> 
+    <set Region='Suffolk' value='16367' /> 
+	<set Region='GreatBritain' value='80496' />        
+</chart>

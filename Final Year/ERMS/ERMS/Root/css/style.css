@@ -1,0 +1,550 @@
+@charset "utf-8";
+/* CSS Document */
+
+html,body,div,span,
+applet,object,iframe,
+h1,h2,h3,h4,h5,h6,blockquote,pre,
+a,abbr,acronym,address,big,cite,code,
+del,dfn,em,font,img,ins,kbd,q,s,samp,
+small,strike,sub,sup,tt,var,
+dd,dl,dt,li,ol,ul,
+fieldset,form,label,legend,
+table,caption,tbody,tfoot,thead,tr,th,td {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-weight: normal;
+	text-align: left;
+}
+
+@font-face {
+	font-family: 'ARTrech';
+	src: url('fonts/ARTechni.ttf');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+@font-face {
+	font-family: 'Gnuolane';
+	src: url('fonts/Gnuolane.ttf');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'BAARS';
+	src: url('fonts/BAARS.TTF');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'MyriadProCond';
+	src: url('fonts/MyriadPro-Cond.ttf');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'MyriadProBoldCond';
+	src: url('fonts/MyriadPro-BoldCond.ttf');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'MyriadProBold';
+	src: url('fonts/MyriadPro-Bold.ttf');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'MyriadPro';
+	src: url('fonts/MyriadPro-Semibold.ttf');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'MyriadProReg';
+	src: url('fonts/MyriadPro-Regular.ttf');
+	font-weight: normal;
+	font-style: normal;
+}
+
+body{
+	padding: 0;
+	margin: 0;
+	border-top: 6px solid #2671b5;
+	background-image:url(images/bg.jpg);
+	background-color: #DDD;
+	background-repeat: repeat-x;
+	background-position: top;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#555;
+}
+
+a{
+	color: #333;
+	text-decoration:none;
+}
+
+h2{
+	font-family: 'Gnuolane';
+	font-weight: 400;
+	color: #222;
+	font-size: 18px;
+}
+
+h3{
+	font-family: 'MyriadProReg';
+	font-weight: 100;
+	color: #333;
+	font-size: 14px;
+}
+
+
+h4{
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	color: #666;
+	font-size: 11px;
+}
+
+h4 a{
+	font-weight: bold;
+}
+
+h4 a:hover{
+	font-weight: bold;
+	text-decoration: underline;
+	color: #F00;
+}
+
+blockquote{
+	font-size: 12px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-style:italic;
+	border-left: 1px solid #CCC;
+ 	padding-left: 10px;
+	padding-right: 5px;
+}
+
+.clear{
+	clear:both;
+}
+
+div#wrapper{
+	margin: 0 auto;
+	width: 960px;
+	padding:0px;
+}
+
+/* Header ------------------------*/
+
+div#topheader{
+	margin: 0px !important;
+}
+
+div#topheader .title{
+	float: left;
+	height: 80px;
+	width: 250px;
+	padding-top: 12px;
+	padding-left: 15px;
+}
+
+div#topheader .topnavigation{
+	background-image:url(images/topnavigation.png);
+	background-repeat:no-repeat;	  
+	float: right;
+	height: 27px;
+	width: 470px;
+	padding-right: 10px;
+	margin-top:85px;
+	color:#086aa8;
+	font-stretch:condensed;
+	font-size:14px;
+	text-align:center;
+
+}
+
+div#topheader .topnavigation li{
+	position: relative;
+	display: inline;
+	float: left;
+	
+}
+
+div#topheader .topnavigation li a{
+	font-family:"MyriadProReg";
+	font-size:13px;
+	color: #086aa8;
+	display: block;
+	padding: 2px 15px 2px 15px;
+	margin: 0 1px 0 0;	
+	text-align: center;
+	text-decoration: none;
+	border-right: 1px #CCC solid;
+}
+
+div#topheader .topnavigation li.last a{
+	border-right: none;
+}
+
+div#topheader .topnavigation li a:hover{
+	color: #F60;
+	background: none;
+}
+
+div#topheader .topnavigation .active a{
+	color: #205484;
+	background-image: none;
+}
+
+
+div#navigation {
+
+}
+
+div#navigation .menu-start{
+	width: 16px;
+	float: left;
+	height: 42px;
+	background: url("images/nav-left.png") no-repeat left !important;
+}
+
+div#navigation .menu-end{
+	width: 16px;
+	float: left;
+	height: 42px;
+	background: url("images/nav-right.png") no-repeat right !important;
+}
+
+div#navigation .menu{
+	width: 928px;
+	float: left;
+	background: url("images/nav-bg.png") repeat-x !important;
+}
+
+div#navigation ul{
+	margin:0;
+	padding:0;
+	list-style:none;
+}
+
+div#navigation li {
+    float: left;
+	padding: 8px 5px;
+	background: url("images/nav-separate.png") right center no-repeat;
+}
+
+div#navigation li a {
+    color: #FFF;
+    display: block;
+    font-family: 'ARTrech';
+	padding: 4px 22px;
+	font-size: 16px;
+    text-align: center;
+    text-decoration: none;
+}
+
+div#navigation li a:hover{
+    color: #FFFFFF;
+	background: url("images/nav-hover.png") repeat-x !important;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+}
+
+div#navigation li.account, div#navigation li.last{
+	background:  none;
+}
+
+div#navigation li.account a{
+    color: #FFF;
+    display: block;
+    font-family: 'ARTrech';
+	margin-left: 100px;
+	padding: 4px 20px;
+	font-size: 16px;
+    text-align: center;
+    text-decoration: none;
+	background: url("images/nav-account.png") repeat-x !important;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+}
+
+
+
+/* Slider Flash ------------------------*/
+
+div#slider{
+	margin: 0 auto;
+	background-color: #16629e;
+	height: 250px;
+}
+
+div#slider .flash{
+	margin: 0px 7px 7px 7px;
+	height: 243px;
+	background: #FFF;
+}
+
+/* Container ------------------------*/
+
+div#container{
+	line-height: 1.6;
+	margin: 0px;
+	clear:both;
+	/*background: url(images/body.png) repeat-y center top;*/
+	background-color:White;
+	padding: 15px 0px 10px 0px;
+	height: 100%;
+}
+
+div#container .leftside{
+	float: left;
+	padding: 2px;
+	width: 105px;
+}
+
+div#container .rightside{
+	float: right;
+	padding: 2px;
+	width: 840px;
+}
+
+
+/* Mine -------------------------------------------*/
+
+.Mine
+{
+    float:right;
+    margin:0px;    
+    clear:both;
+    width:432px;
+    height:210px;
+}
+
+.MyContainTop
+{
+    float:left;
+    margin:0;
+    clear:both;
+    width:828px;
+    height:350px;
+}
+
+div#Graph1
+{
+    line-height: 1.6;
+    margin: 0px;
+	clear:both;	
+	padding: 15px 0px 10px 0px;
+	background-color:White;	
+	height: 45px;
+}
+div#Graph1 .MyContainLeft
+{    
+    float:left;    
+    width:410px; 
+    padding:2px;  
+}
+div#Graph1 .MyContainRight
+{
+    float:Right;    
+    width:410px; 
+    padding:2px;   
+}
+
+div#Graph2
+{
+    line-height: 1.6;
+    margin: 0px;
+	clear:both;	
+	padding: 15px 0px 10px 0px;
+	background-color:White;	
+	height: 45px;
+}
+div#Graph2 .MyContainLeft
+{    
+    float:left;    
+    width:410px; 
+    padding:2px;  
+}
+div#Graph2 .MyContainRight
+{
+    float:Right;    
+    width:410px; 
+    padding:2px;   
+}
+
+div#Graph3
+{
+    line-height: 1.6;
+    margin: 0px;
+	clear:both;	
+	padding: 15px 0px 10px 0px;
+	background-color:White;	
+	height: 45px;
+}
+div#Graph3 .MyContainLeft
+{    
+    float:left;    
+    width:410px; 
+    padding:2px;  
+}
+div#Graph3 .MyContainRight
+{
+    float:Right;    
+    width:410px; 
+    padding:2px;   
+}
+
+
+div#PastAnalysis
+{
+    line-height: 1.6;
+    margin: 0px;
+	clear:both;	
+	padding: 15px 0px 10px 0px;
+	background-color:White;		
+}
+
+div#PastAnalysis .PastLeft
+{
+    float:left;
+    width:520px; 
+    padding:2px; 
+}
+div#PastAnalysis .PastRight
+{
+    float:right;
+    width:300px; 
+    padding:2px; 
+}
+
+div#Menu
+{
+    line-height: 1.6;
+    margin: 0px;
+	clear:both;	
+	padding: 15px 0px 10px 0px;
+	background-color:White;	
+}
+div#Menu .Col1
+{
+    float:left;
+    width:100px; 
+    padding:2px;
+    height:28px;
+}
+div#Menu .Col2
+{
+    float:left;
+    width:200px; 
+    padding:2px;
+    height:28px;
+}
+div#Menu .Col3
+{
+    float:left;
+    width:100px; 
+    padding:2px;
+    height:28px;
+}
+div#Menu .Col4
+{
+    float:left;
+    width:150px; 
+    padding:2px;
+    height:28px;
+}
+
+div#Background{
+	line-height: 1.6;
+	margin: 0px;
+	clear:both;
+	background: url(ERMSimages/EPIimages/Login.png) center top;
+	/*background-color:White;*/
+	padding: 15px 0px 10px 0px;    
+}
+
+/* Mine -------------------------------------------*/
+
+/* Footer -----------------------------------------*/
+
+div#footer{
+}
+
+div#footer p{
+	font-size:11px;
+	color: #333;
+}
+
+div#footer p a{
+	font-size:11px;
+	font-weight:bold;
+	color: #333;
+}
+
+div#footer .footer-start{
+	width: 16px;
+	float: left;
+	height: 42px;
+	background: url("images/footer-left.png") no-repeat left !important;
+}
+
+div#footer .footer-end{
+	width: 16px;
+	float: left;
+	height: 42px;
+	background: url("images/footer-right.png") no-repeat right !important;
+}
+
+div#footer .footernav{
+	width: 928px;
+	float: left;
+	background-color: #16629e;
+}
+
+div#footer  ul{
+	list-style: none;
+	padding: 13px 0px;
+	text-align: center;
+}
+
+div#footer ul li{
+	display: inline;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+div#footer ul li a{
+	font-size:13px;
+	padding: 0px 20px;
+	color: #DDD;
+	border-right:1px solid #DDD;
+}
+
+div#footer ul li.last a{
+	border-right: none;
+}
+
+
+div#footer ul li a:hover{
+	color: #09F;
+	font-weight: 550;
+}
+
+div#footer .copyrights{
+	clear: both;
+	padding: 2px 0px;
+	text-align: center;
+}
+
+
+
+

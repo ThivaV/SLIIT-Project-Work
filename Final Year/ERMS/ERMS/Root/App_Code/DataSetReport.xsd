@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSetReport" targetNamespace="http://tempuri.org/DataSetReport.xsd" xmlns:mstns="http://tempuri.org/DataSetReport.xsd" xmlns="http://tempuri.org/DataSetReport.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSetReport" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="DataSetReport" msprop:Generator_DataSetName="DataSetReport">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="tblReportTraffic" msprop:Generator_TableClassName="tblReportTrafficDataTable" msprop:Generator_TableVarName="tabletblReportTraffic" msprop:Generator_TablePropName="tblReportTraffic" msprop:Generator_RowDeletingName="tblReportTrafficRowDeleting" msprop:Generator_UserTableName="tblReportTraffic" msprop:Generator_RowChangingName="tblReportTrafficRowChanging" msprop:Generator_RowEvHandlerName="tblReportTrafficRowChangeEventHandler" msprop:Generator_RowDeletedName="tblReportTrafficRowDeleted" msprop:Generator_RowEvArgName="tblReportTrafficRowChangeEvent" msprop:Generator_RowChangedName="tblReportTrafficRowChanged" msprop:Generator_RowClassName="tblReportTrafficRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Year" msprop:Generator_ColumnVarNameInTable="columnYear" msprop:Generator_ColumnPropNameInRow="Year" msprop:Generator_ColumnPropNameInTable="YearColumn" msprop:Generator_UserColumnName="Year" type="xs:string" minOccurs="0" />
+              <xs:element name="YearlyTrafficCount" msprop:Generator_ColumnVarNameInTable="columnYearlyTrafficCount" msprop:Generator_ColumnPropNameInRow="YearlyTrafficCount" msprop:Generator_ColumnPropNameInTable="YearlyTrafficCountColumn" msprop:Generator_UserColumnName="YearlyTrafficCount" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

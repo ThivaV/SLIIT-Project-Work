@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent">
+    <TextView android:layout_width="match_parent" android:id="@+id/textView1" android:layout_gravity="center" android:text="Distance is 2000 meters" android:textAppearance="?android:attr/textAppearanceMedium" android:layout_height="wrap_content"></TextView>
+    <TextView android:layout_width="match_parent" android:id="@+id/textView2" android:layout_height="wrap_content" android:text="Do you want trasport service???" android:layout_marginTop="20dp" android:textSize="20sp"></TextView>
+    <Button android:id="@+id/YesButton" android:layout_height="wrap_content" android:layout_width="match_parent" android:layout_marginTop="20dp" android:text="Taxi"></Button>
+    <Button android:layout_width="match_parent" android:id="@+id/NoButton" android:layout_height="wrap_content" android:layout_marginTop="20dp" android:text="Car"></Button>
+    
+</LinearLayout>

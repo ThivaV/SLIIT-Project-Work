@@ -1,0 +1,8 @@
+<chart caption='Time Interval-No Of Vehicles Summary' xAxisName='Hours' yAxisName='NoOfVehicles' numberPrefix=''> 
+    <set label='00:00-04:00' value='530'/> 
+    <set label='04:00-08:00' value='230'/> 
+    <set label='08:00-12:00' value='452'/> 
+    <set label='12:00-16:00' value='336'/> 
+	  <set label='16:00-20:00' value='240'/> 
+    <set label='20:00-24:00' value='400'/>      
+</chart>
