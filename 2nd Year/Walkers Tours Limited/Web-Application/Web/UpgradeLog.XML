@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="NewReservation">
+</Property><Property Name="Solution File" Value="D:\SLIIT\kas\projects\Walkers Tours Limited\Web-Application\Web\NewReservation.sln">
+</Property><Property Name="User Options File" Value="D:\SLIIT\kas\projects\Walkers Tours Limited\Web-Application\Web\NewReservation.suo">
+</Property><Property Name="Date" Value="Monday, March 29, 2010">
+</Property><Property Name="Time" Value="21:53 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="NewReservation.sln" Description="File successfully backed up as D:\SLIIT\kas\projects\Walkers Tours Limited\Web-Application\Web\Backup\NewReservation.sln">
+</Event><Event ErrorLevel="0" Project="" Source="NewReservation.suo" Description="File successfully backed up as D:\SLIIT\kas\projects\Walkers Tours Limited\Web-Application\Web\Backup\NewReservation.suo">
+</Event><Event ErrorLevel="0" Project="BL" Source="BL\BL.csproj" Description="Project file successfully backed up as D:\SLIIT\kas\projects\Walkers Tours Limited\Web-Application\Web\Backup\BL\BL.csproj">
+</Event><Event ErrorLevel="0" Project="BL" Source="BL\CustmerRegisteration.cs" Description="File successfully backed up as D:\SLIIT\kas\projects\Walkers Tours Limited\Web-Application\Web\Backup\BL\CustmerRegisteration.cs">
+</Event><Event ErrorLevel="0" Project="BL" Source="BL\HotelFacility.cs" Description="File successfully backed up as D:\SLIIT\kas\projects\Walkers Tours Limited\Web-Application\Web\Backup\BL\HotelFacility.cs">
+</Event><Event ErrorLevel="0" Project="BL" Source="BL\HotelPricesViewer.cs" Description="File successfully backed up as D:\SLIIT\kas\projects\Walkers Tours Limited\Web-Application\Web\Backup\BL\HotelPricesViewer.cs">
+</Event><Event ErrorLevel="0" Project="BL" Source="BL\OnlinePay.cs" Description="File successfully backed up as D:\SLIIT\kas\projects\Walkers Tours Limited\Web-Application\Web\Backup\BL\OnlinePay.cs">
+</Event><Event ErrorLevel="0" Project="BL" Source="BL\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\SLIIT\kas\projects\Walkers Tours Limited\Web-Application\Web\Backup\BL\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="BL" Source="BL\RoomReserversation.cs" Description="File successfully backed up as D:\SLIIT\kas\projects\Walkers Tours Limited\Web-Application\Web\Backup\BL\RoomReserversation.cs">
+</Event><Event ErrorLevel="0" Project="BL" Source="BL\BL.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="BL" Source="BL\BL.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DL" Source="DL\DL.csproj" Description="Project file successfully backed up as D:\SLIIT\kas\projects\Walkers Tours Limited\Web-Application\Web\Backup\DL\DL.csproj">
+</Event><Event ErrorLevel="0" Project="DL" Source="DL\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\SLIIT\kas\projects\Walkers Tours Limited\Web-Application\Web\Backup\DL\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="DL" Source="DL\SQL.cs" Description="File successfully backed up as D:\SLIIT\kas\projects\Walkers Tours Limited\Web-Application\Web\Backup\DL\SQL.cs">
+</Event><Event ErrorLevel="0" Project="DL" Source="DL\DL.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="DL" Source="DL\DL.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="NewReservation.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="NewReservation.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="BL" Source="BL\BL.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="DL" Source="DL\DL.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

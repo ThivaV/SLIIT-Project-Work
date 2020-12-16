@@ -1,0 +1,7 @@
+E:\backup\myPenBackup\NewReservation\BL\bin\Debug\BL.dll
+E:\backup\myPenBackup\NewReservation\BL\bin\Debug\BL.pdb
+E:\backup\myPenBackup\NewReservation\BL\bin\Debug\DL.dll
+E:\backup\myPenBackup\NewReservation\BL\bin\Debug\DL.pdb
+E:\backup\myPenBackup\NewReservation\BL\obj\Debug\ResolveAssemblyReference.cache
+E:\backup\myPenBackup\NewReservation\BL\obj\Debug\BL.dll
+E:\backup\myPenBackup\NewReservation\BL\obj\Debug\BL.pdb

@@ -1,0 +1,8 @@
+bin\Debug\Administrator.exe
+bin\Debug\Administrator.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Administrator.Form1.resources
+obj\Debug\Administrator.Properties.Resources.resources
+obj\Debug\Administrator.csproj.GenerateResource.Cache
+obj\Debug\Administrator.exe
+obj\Debug\Administrator.pdb

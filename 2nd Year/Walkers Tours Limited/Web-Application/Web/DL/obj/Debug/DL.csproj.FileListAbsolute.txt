@@ -1,0 +1,5 @@
+G:\SLIIT\Kasthu\projects\Walkers Tours Limited\Web-Application\Web\DL\bin\Debug\DL.dll
+G:\SLIIT\Kasthu\projects\Walkers Tours Limited\Web-Application\Web\DL\bin\Debug\DL.pdb
+G:\SLIIT\Kasthu\projects\Walkers Tours Limited\Web-Application\Web\DL\obj\Debug\ResolveAssemblyReference.cache
+G:\SLIIT\Kasthu\projects\Walkers Tours Limited\Web-Application\Web\DL\obj\Debug\DL.dll
+G:\SLIIT\Kasthu\projects\Walkers Tours Limited\Web-Application\Web\DL\obj\Debug\DL.pdb

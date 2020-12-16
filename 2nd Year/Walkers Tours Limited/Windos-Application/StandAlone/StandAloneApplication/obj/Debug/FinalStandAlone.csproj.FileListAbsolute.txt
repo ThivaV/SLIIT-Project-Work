@@ -1,0 +1,14 @@
+F:\SLIIT\Kasthu\projects\Walkers Tours Limited\Windos-Application\StandAlone\StandAloneApplication\obj\Debug\Administrator.exe
+G:\SLIIT\Kasthu\projects\Walkers Tours Limited\Windos-Application\StandAlone\StandAloneApplication\obj\Debug\Administrator.exe
+G:\SLIIT\Kasthu\projects\Walkers Tours Limited\Windos-Application\StandAlone\StandAloneApplication\obj\Debug\ResolveAssemblyReference.cache
+G:\SLIIT\Kasthu\projects\Walkers Tours Limited\Windos-Application\StandAlone\StandAloneApplication\obj\Debug\Administrator.Administrator.resources
+G:\SLIIT\Kasthu\projects\Walkers Tours Limited\Windos-Application\StandAlone\StandAloneApplication\obj\Debug\Administrator.MarGuiCharge.resources
+G:\SLIIT\Kasthu\projects\Walkers Tours Limited\Windos-Application\StandAlone\StandAloneApplication\obj\Debug\Administrator.MarketingOfficer.resources
+G:\SLIIT\Kasthu\projects\Walkers Tours Limited\Windos-Application\StandAlone\StandAloneApplication\obj\Debug\Administrator.MarMilage.resources
+G:\SLIIT\Kasthu\projects\Walkers Tours Limited\Windos-Application\StandAlone\StandAloneApplication\obj\Debug\Administrator.MarVehicle.resources
+G:\SLIIT\Kasthu\projects\Walkers Tours Limited\Windos-Application\StandAlone\StandAloneApplication\obj\Debug\Administrator.Properties.Resources.resources
+G:\SLIIT\Kasthu\projects\Walkers Tours Limited\Windos-Application\StandAlone\StandAloneApplication\obj\Debug\Administrator.UserLogin.resources
+G:\SLIIT\Kasthu\projects\Walkers Tours Limited\Windos-Application\StandAlone\StandAloneApplication\obj\Debug\FinalStandAlone.csproj.GenerateResource.Cache
+G:\SLIIT\Kasthu\projects\Walkers Tours Limited\Windos-Application\StandAlone\StandAloneApplication\obj\Debug\RdlCompile.cache
+G:\SLIIT\Kasthu\projects\Walkers Tours Limited\Windos-Application\StandAlone\StandAloneApplication\obj\Debug\RdlCompile.compiled
+F:\My-Projects\Walkers Tours Limited\Windos-Application\StandAlone\StandAloneApplication\obj\Debug\Administrator.exe

@@ -1,0 +1,54 @@
+J:\OurProjectStandAlone\Administrator\Administrator\Administrator\obj\Debug\Administrator.exe
+J:\OurProjectStandAlone\Administrator\Administrator\Administrator\obj\Debug\Administrator.pdb
+J:\OurProjectStandAlone\Administrator\Administrator\Administrator\bin\Debug\Administrator.exe
+J:\OurProjectStandAlone\Administrator\Administrator\Administrator\bin\Debug\Administrator.pdb
+J:\OurProjectStandAlone\Administrator\Administrator\Administrator\obj\Debug\ResolveAssemblyReference.cache
+J:\OurProjectStandAlone\Administrator\Administrator\Administrator\obj\Debug\Administrator.Form1.resources
+J:\OurProjectStandAlone\Administrator\Administrator\Administrator\obj\Debug\Administrator.Properties.Resources.resources
+J:\OurProjectStandAlone\Administrator\Administrator\Administrator\obj\Debug\Administrator.csproj.GenerateResource.Cache
+F:\OurProjectStandAlone\Administrator\Administrator\Administrator\obj\Debug\Administrator.exe
+F:\OurProjectStandAlone\Administrator\Administrator\Administrator\obj\Debug\Administrator.pdb
+F:\OurProjectStandAlone\Administrator\Administrator\Administrator\bin\Debug\Administrator.exe
+F:\OurProjectStandAlone\Administrator\Administrator\Administrator\bin\Debug\Administrator.pdb
+F:\OurProjectStandAlone\Administrator\Administrator\Administrator\obj\Debug\ResolveAssemblyReference.cache
+F:\OurProjectStandAlone\Administrator\Administrator\Administrator\obj\Debug\Administrator.Form1.resources
+F:\OurProjectStandAlone\Administrator\Administrator\Administrator\obj\Debug\Administrator.Properties.Resources.resources
+F:\OurProjectStandAlone\Administrator\Administrator\Administrator\obj\Debug\Administrator.csproj.GenerateResource.Cache
+C:\Documents and Settings\THNRRVDMP-INDVARA\Desktop\Administrator\Administrator\obj\Debug\Administrator.exe
+C:\Documents and Settings\THNRRVDMP-INDVARA\Desktop\Administrator\Administrator\obj\Debug\Administrator.pdb
+C:\Documents and Settings\THNRRVDMP-INDVARA\Desktop\Administrator\Administrator\bin\Debug\Administrator.exe
+C:\Documents and Settings\THNRRVDMP-INDVARA\Desktop\Administrator\Administrator\bin\Debug\Administrator.pdb
+C:\Documents and Settings\THNRRVDMP-INDVARA\Desktop\Administrator\Administrator\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\THNRRVDMP-INDVARA\Desktop\Administrator\Administrator\obj\Debug\Administrator.Form1.resources
+C:\Documents and Settings\THNRRVDMP-INDVARA\Desktop\Administrator\Administrator\obj\Debug\Administrator.Properties.Resources.resources
+C:\Documents and Settings\THNRRVDMP-INDVARA\Desktop\Administrator\Administrator\obj\Debug\Administrator.csproj.GenerateResource.Cache
+J:\OurProjectStandAlone\Administrator\Administrator\obj\Debug\Administrator.exe
+J:\OurProjectStandAlone\Administrator\Administrator\obj\Debug\Administrator.pdb
+J:\OurProjectStandAlone\Administrator\Administrator\bin\Debug\Administrator.exe
+J:\OurProjectStandAlone\Administrator\Administrator\bin\Debug\Administrator.pdb
+J:\OurProjectStandAlone\Administrator\Administrator\obj\Debug\ResolveAssemblyReference.cache
+J:\OurProjectStandAlone\Administrator\Administrator\obj\Debug\Administrator.Form1.resources
+J:\OurProjectStandAlone\Administrator\Administrator\obj\Debug\Administrator.Properties.Resources.resources
+J:\OurProjectStandAlone\Administrator\Administrator\obj\Debug\Administrator.csproj.GenerateResource.Cache
+C:\Documents and Settings\dit08c1-0140\Desktop\OurProjectStandAlone\Administrator\Administrator\obj\Debug\Administrator.exe
+C:\Documents and Settings\dit08c1-0140\Desktop\OurProjectStandAlone\Administrator\Administrator\obj\Debug\Administrator.pdb
+C:\Documents and Settings\dit08c1-0140\Desktop\OurProjectStandAlone\Administrator\Administrator\bin\Debug\Administrator.exe
+C:\Documents and Settings\dit08c1-0140\Desktop\OurProjectStandAlone\Administrator\Administrator\bin\Debug\Administrator.pdb
+C:\Documents and Settings\dit08c1-0140\Desktop\OurProjectStandAlone\Administrator\Administrator\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\dit08c1-0140\Desktop\OurProjectStandAlone\Administrator\Administrator\obj\Debug\Administrator.Form1.resources
+C:\Documents and Settings\dit08c1-0140\Desktop\OurProjectStandAlone\Administrator\Administrator\obj\Debug\Administrator.Properties.Resources.resources
+C:\Documents and Settings\dit08c1-0140\Desktop\OurProjectStandAlone\Administrator\Administrator\obj\Debug\Administrator.csproj.GenerateResource.Cache
+C:\Users\Vaasuki\Desktop\StandAlone-1\OurProjectStandAlone\Administrator\Administrator\bin\Debug\Administrator.exe
+C:\Users\Vaasuki\Desktop\StandAlone-1\OurProjectStandAlone\Administrator\Administrator\bin\Debug\Administrator.pdb
+C:\Users\Vaasuki\Desktop\StandAlone-1\OurProjectStandAlone\Administrator\Administrator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Vaasuki\Desktop\StandAlone-1\OurProjectStandAlone\Administrator\Administrator\obj\Debug\Administrator.Properties.Resources.resources
+C:\Users\Vaasuki\Desktop\StandAlone-1\OurProjectStandAlone\Administrator\Administrator\obj\Debug\Administrator.csproj.GenerateResource.Cache
+C:\Users\Vaasuki\Desktop\StandAlone-1\OurProjectStandAlone\Administrator\Administrator\obj\Debug\Administrator.exe
+C:\Users\Vaasuki\Desktop\StandAlone-1\OurProjectStandAlone\Administrator\Administrator\obj\Debug\Administrator.pdb
+C:\Users\Vaasuki\Desktop\StandAlone-1\OurProjectStandAlone\Administrator\Administrator\obj\Debug\Administrator.Administrator.resources
+C:\Users\Vaasuki\Desktop\Administrator\Administrator\obj\Debug\Administrator.exe
+C:\Users\Vaasuki\Desktop\Administrator\Administrator\obj\Debug\Administrator.pdb
+C:\Users\Vaasuki\Desktop\Administrator\Administrator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Vaasuki\Desktop\Administrator\Administrator\obj\Debug\Administrator.Administrator.resources
+C:\Users\Vaasuki\Desktop\Administrator\Administrator\obj\Debug\Administrator.Properties.Resources.resources
+C:\Users\Vaasuki\Desktop\Administrator\Administrator\obj\Debug\Administrator.csproj.GenerateResource.Cache
